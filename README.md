@@ -4,7 +4,7 @@
 <img alt="coding" width="400" src="https://user-images.githubusercontent.com/61131314/136562272-245dcf5e-8487-46cb-b950-4dc296e65e04.gif" style="float: right;">
 
 
-- 🔭 I’m currently working on [Edutrivia](Edutrivia.ng)
+- 🔭 I’m currently working on [Studypaddy](https://studypaddy.com/)
 
 - 🌱 I’m currently learning **.NET**
 

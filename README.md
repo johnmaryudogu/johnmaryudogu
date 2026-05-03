@@ -70,7 +70,7 @@ Built with Java, Spring Boot, React, and AI integration. Live at [studypaddy.com
 | Repo | Description | Stack |
 |------|-------------|-------|
 | [Task-Management](https://github.com/johnmaryudogu/Task-Management) | Backend REST API for internal task and ticket management within organizations | Java, Spring Boot, MySQL |
-| [Escalayt](https://github.com/johnmaryudogu/Escalayt) | Full-stack ticketing platform for assigning and resolving support tickets | Java, Spring Boot, Spring Security, React |
+| [Escalayt](https://github.com/johnmaryudogu/Escalaytt) | Full-stack ticketing platform for assigning and resolving support tickets | Java, Spring Boot, Spring Security, React |
 | [Ivite](https://github.com/johnmaryudogu/Ivite) | Cross-platform mobile app that curates event attendee photos into a shared album | React Native |
 
 ---

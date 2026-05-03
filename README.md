@@ -5,7 +5,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Java backend engineer with **3 years of Spring Boot/microservices experience** and **5+ years building production applications** with React and React Native. I build end-to-end — from designing backend APIs to consuming them on the frontend.
 
@@ -17,7 +17,7 @@ Java backend engineer with **3 years of Spring Boot/microservices experience** a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 
@@ -43,14 +43,20 @@ Java backend engineer with **3 years of Spring Boot/microservices experience** a
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+**Currently Learning**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
 ---
 
-## 📌 Featured Project
+## Featured Project
 
 ### [StudyPaddy](https://studypaddy.com) — AI-Powered Learning Platform
 > Quiz generation from uploaded files/text · Document summarization · Interactive file Q&A
@@ -63,10 +69,9 @@ Built with Java, Spring Boot, React, and AI integration. Live at [studypaddy.com
 
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [Task-Management](https://github.com/johnmaryudogu/Task-Management) | Task management system with full CRUD | Java |
-| [SpringSecurity](https://github.com/johnmaryudogu/SpringSecurity) | Spring Security implementation with JWT auth | Java, Spring Boot |
-| [BakevillageEcoms](https://github.com/johnmaryudogu/BakevillageEcoms) | E-commerce backend built with Java Servlet | Java |
-| [RunningSocial](https://github.com/johnmaryudogu/RunningSocial) | Social app backend with Spring MVC | Java, Spring |
+| [Task-Management](https://github.com/johnmaryudogu/Task-Management) | Backend REST API for internal task and ticket management within organizations | Java, Spring Boot, MySQL |
+| [Escalayt](https://github.com/johnmaryudogu/Escalayt) | Full-stack ticketing platform for assigning and resolving support tickets | Java, Spring Boot, Spring Security, React |
+| [Ivite](https://github.com/johnmaryudogu/Ivite) | Cross-platform mobile app that curates event attendee photos into a shared album | React Native |
 
 ---
 
@@ -75,7 +80,6 @@ Built with Java, Spring Boot, React, and AI integration. Live at [studypaddy.com
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/johnmaryudogu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://johnmaryudogu.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johnmaryudogu@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/johnmaryudogu)
 
 ---
 
